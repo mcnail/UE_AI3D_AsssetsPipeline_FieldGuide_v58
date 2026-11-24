@@ -15,5 +15,8 @@
 | `02_sheets` | 3D 생성에 넣은 시트 이미지 — `probe`(탐사선 본체 · 카메라 시점별), `props`(주변 소품) |
 | `03_tirpo` | Tripo 에서 생성한 로우폴리곤 |
 | `07_FBX_for_UE_import` | 언리얼로 가져갈 FBX |
+| `UE_Proj_v58` | 언리얼 엔진 5.8 프로젝트 (`ai3dAssetsPipeline.uproject`) |
 
-하이폴리곤 파일은 용량 때문에 별도 링크로 공유합니다. 언리얼 프로젝트 파일은 나중에 올립니다.
+하이폴리곤 파일은 용량 때문에 별도 링크로 공유합니다.
+
+`UE_Proj_v58` 에는 Tripo Bridge 플러그인이 들어 있지 않습니다. Tripo Studio 에서 언리얼로 바로 보내려면 [Tripo](https://www.tripo3d.ai) 에서 Tripo Bridge(UE 5.8) 플러그인을 받아 `UE_Proj_v58/Plugins/` 에 넣습니다. 프로젝트를 열고 들어 있는 애셋을 보는 데에는 이 플러그인이 필요하지 않습니다.

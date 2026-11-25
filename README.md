@@ -13,7 +13,7 @@
 |---|---|
 | `01_concept` | 컨셉 지침(`Rules`)과 컨셉 이미지 |
 | `02_sheets` | 3D 생성에 넣은 시트 이미지 — `probe`(탐사선 본체 · 카메라 시점별), `props`(주변 소품) |
-| `03_tirpo` | Tripo 에서 생성한 로우폴리곤 |
+| `03_tirpo_agentic_canvas` | Tripo 에서 생성한 로우폴리곤 |
 | `07_FBX_for_UE_import` | 언리얼로 가져갈 FBX |
 | `UE_Proj_v58` | 언리얼 엔진 5.8 프로젝트 (`ai3dAssetsPipeline.uproject`) |
 
